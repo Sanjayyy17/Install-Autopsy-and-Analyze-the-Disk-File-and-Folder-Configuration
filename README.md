@@ -23,19 +23,25 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
 ### Step2:Installation Process
   •	Launch Autopsy if it correctly works. 
-  ![image](https://github.com/user-attachments/assets/8e82fb48-ae4f-49be-bec6-231d76cde77b)
+  ![Screenshot 2025-04-21 141555](https://github.com/user-attachments/assets/c0b3418a-dc18-456b-9e1a-245cb4c20ed0)
+
 
   •	Choose Directory
-  ![image](https://github.com/user-attachments/assets/cce32482-0eca-4a66-982c-63e4b3e1f118)
+ ![Screenshot 2025-04-21 141608](https://github.com/user-attachments/assets/d92e9f42-0cc7-41c8-91ec-f4336b74caf9)
+
 
   •	Give Install
-  ![image](https://github.com/user-attachments/assets/333f1109-b42c-4639-aec6-e616384433cc)
+ ![Screenshot 2025-04-21 141654](https://github.com/user-attachments/assets/8db914d9-c16f-4f1c-9473-b316eb05156b)
+
 
   •	Successfully installed
-  ![image](https://github.com/user-attachments/assets/ce67088d-43bb-4a9f-b467-c3e8d325eec1)
+![Screenshot 2025-04-21 142022](https://github.com/user-attachments/assets/b036205e-be7f-433f-8de5-f574b19eaa2b)
+
+
 
   •	Autopsy Interface
-  ![image](https://github.com/user-attachments/assets/eea203a8-9052-4970-bf73-462cfc76d12f)
+![WhatsApp Image 2025-04-21 at 14 20 57_ee66e6ae](https://github.com/user-attachments/assets/a094ad46-3399-45a3-9945-adf555a58799)
+
 
 ## CREATING A DISK PARTITION:
 ### Step1: Open File Manager
