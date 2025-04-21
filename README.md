@@ -75,7 +75,8 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   •	Open File Explorer → Navigate to the newly created drive (C: or D:).
   
   •	Transfer images or files into it.
-  ![image](https://github.com/user-attachments/assets/3e9292cd-1c05-4ebb-8e22-702d42db7c17)
+  ![WhatsApp Image 2025-04-21 at 14 12 58_0e784b0b](https://github.com/user-attachments/assets/6123e245-522f-4aae-99f9-d38b9e709baa)
+
 
 ## OUTPUT:ANALYSING FILES USING AUTOPSY:
 
@@ -92,7 +93,8 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   •	Select the data source and let Autopsy process it.
 ### Step3: File Analysis
   •	Application
-  ![image](https://github.com/user-attachments/assets/02511196-3d41-4558-9693-a22391ed9b85)
+   ![exp2](https://github.com/user-attachments/assets/55818c7c-84a3-49b3-ad78-686090d05c66)
+
 
   •	File Metadata
   ![image](https://github.com/user-attachments/assets/6c9a744c-b027-48d5-8287-29d8bdd754dd)
